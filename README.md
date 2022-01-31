@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ransayada&label=Profile%20views&color=0e75b6&style=flat" alt="ransayada" /> </p>
 
-- 🔭 I’m currently working on **side project**
-- - before that i worked on airbnb clone [earth-bnb](http://earth-bnb-2021.herokuapp.com/#)
+- 🔭 I’m currently working on a **side project**
+-  before that i worked on airbnb clone [earth-bnb](http://earth-bnb-2021.herokuapp.com/#)
 
 - 💬 Ask me about **e2e PWA's OR OPA's with**
-
 - frameworks like **react vue or angular**
 
 - 📫 How to reach me? **https://www.linkedin.com/in/ran-sayada/**
