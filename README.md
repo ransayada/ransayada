@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ransayada&label=Profile%20views&color=0e75b6&style=flat" alt="ransayada" /> </p>
 
-- 🔭 I’m just finished working on my [Portfolio](https://ransayada.github.io/main-portfolio/#)
+- 🔭 I just finished working on my [Portfolio](https://ransayada.github.io/main-portfolio/#)
 -  before that i worked on airbnb clone [earth-bnb](http://earth-bnb-2021.herokuapp.com/#)
 
 - 💬 Ask me about **e2e PWA's OR OPA's with**
 - frameworks like **react vue or angular**
+- **MERN TS GIT LINUX HEROKU**
 
 - 📫 How to reach me? **https://www.linkedin.com/in/ran-sayada/**
 
-- ⚡ Fun fact about me **Im a tea-pot and i play drums since i was 9 years old**
+- ⚡ Fun fact about me **I play drums since i was 9 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
