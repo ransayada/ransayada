@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ransayada&label=Profile%20views&color=0e75b6&style=flat" alt="ransayada" /> </p>
 
-- 🔭 I’m currently working on a **side project**
+- 🔭 I’m just finished working on my [Portfolio] (https://ransayada.github.io/main-portfolio/#)
 -  before that i worked on airbnb clone [earth-bnb](http://earth-bnb-2021.herokuapp.com/#)
 
 - 💬 Ask me about **e2e PWA's OR OPA's with**
