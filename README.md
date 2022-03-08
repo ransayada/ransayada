@@ -5,15 +5,13 @@
 
 - check out my personal website [url](https://ransayada.github.io/main-portfolio)
 
-- 💬 Ask me about **e2e PWA's OR OPA's with**
+- check out my air-bnb clone [earth-bnb](http://earth-bnb-2021.herokuapp.com/#)
 
-- before that i worked on airbnb clone [earth-bnb](http://earth-bnb-2021.herokuapp.com/#)
+- 💬 Ask me about **e2e PWA's OR OPA's with frameworks like react vue or angular.**
+
+- backend REST API server using **Node.js (express)**
 
 - 📫 How to reach me [https://www.linkedin.com/in/ran-sayada/](https://www.linkedin.com/in/ran-sayada/)
-
-- frameworks like **react vue or angular**
-
-- backend server using **Node.js (express)**
 
 - ⚡ Fun fact **my two hobbies are code and drumming 🥁💻**
 
